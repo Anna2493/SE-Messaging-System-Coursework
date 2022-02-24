@@ -1,0 +1,247 @@
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\obj\Debug\Presentation.csprojAssemblyReference.cache
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\obj\Debug\MainWindow.g.cs
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\obj\Debug\App.g.cs
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.cache
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.lref
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\bin\Debug\SECoursework.exe.config
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\bin\Debug\SECoursework.exe
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\bin\Debug\SECoursework.pdb
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\bin\Debug\Business.dll
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\bin\Debug\Data.dll
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\bin\Debug\Business.pdb
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\bin\Debug\Data.pdb
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\obj\Debug\MainWindow.baml
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\obj\Debug\SECoursework.g.resources
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\obj\Debug\SECoursework.Properties.Resources.resources
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\obj\Debug\Presentation.csproj.GenerateResource.cache
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\obj\Debug\Presentation.csproj.CopyComplete
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\obj\Debug\SECoursework.exe
+E:\Stuff\SE_Coursework\SECoursework\SECoursework\obj\Debug\SECoursework.pdb
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\bin\Debug\SECoursework.exe.config
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\bin\Debug\SECoursework.exe
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\bin\Debug\SECoursework.pdb
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\bin\Debug\Business.dll
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\bin\Debug\Data.dll
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\bin\Debug\Business.pdb
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\bin\Debug\Data.pdb
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\Presentation.csprojAssemblyReference.cache
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\MainWindow.g.cs
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\App.g.cs
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.cache
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.lref
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\MainWindow.baml
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\SECoursework.g.resources
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\SECoursework.Properties.Resources.resources
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\Presentation.csproj.CopyComplete
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\SECoursework.exe
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\SECoursework.pdb
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\IncidentNature.g.cs
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\obj\Debug\IncidentNature.baml
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.dll
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.xml
+D:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\SECoursework.exe.config
+D:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\SECoursework.exe
+D:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\SECoursework.pdb
+D:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\Business.dll
+D:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\Data.dll
+D:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.dll
+D:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\Business.pdb
+D:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\Data.pdb
+D:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.xml
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\Presentation.csprojAssemblyReference.cache
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\IncidentNature.g.cs
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\MainWindow.g.cs
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\App.g.cs
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.cache
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.lref
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\IncidentNature.baml
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\MainWindow.baml
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\SECoursework.g.resources
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\SECoursework.Properties.Resources.resources
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\Presentation.csproj.CopyComplete
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\SECoursework.exe
+D:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\SECoursework.pdb
+E:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\SECoursework.exe.config
+E:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\SECoursework.exe
+E:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\SECoursework.pdb
+E:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\Business.dll
+E:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\Data.dll
+E:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.dll
+E:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\Business.pdb
+E:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\Data.pdb
+E:\Software engineering coursework\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.xml
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\Presentation.csprojAssemblyReference.cache
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\IncidentNature.g.cs
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\MainWindow.g.cs
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\App.g.cs
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.cache
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.lref
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\IncidentNature.baml
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\MainWindow.baml
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\SECoursework.g.resources
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\SECoursework.Properties.Resources.resources
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\Presentation.csproj.GenerateResource.cache
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\Presentation.csproj.CopyComplete
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\SECoursework.exe
+E:\Software engineering coursework\SECoursework\SECoursework\obj\Debug\SECoursework.pdb
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\SECoursework.exe.config
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\SECoursework.exe
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\SECoursework.pdb
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\Business.dll
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\Data.dll
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.dll
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\Business.pdb
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\Data.pdb
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.xml
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\Presentation.csprojAssemblyReference.cache
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\IncidentNature.g.cs
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\MainWindow.g.cs
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\App.g.cs
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.cache
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.lref
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\IncidentNature.baml
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\MainWindow.baml
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\SECoursework.g.resources
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\SECoursework.Properties.Resources.resources
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\Presentation.csproj.CopyComplete
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\SECoursework.exe
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\SECoursework.pdb
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\TrendingList.g.cs
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\TrendingList.baml
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\SECoursework.exe.config
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\SECoursework.exe
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\SECoursework.pdb
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\Business.dll
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\Data.dll
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.dll
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\Business.pdb
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\Data.pdb
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.xml
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\Presentation.csprojAssemblyReference.cache
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\IncidentNature.g.cs
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\MainWindow.g.cs
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\TrendingList.g.cs
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\App.g.cs
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.cache
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.lref
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\IncidentNature.baml
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\MainWindow.baml
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\TrendingList.baml
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\SECoursework.g.resources
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\SECoursework.Properties.Resources.resources
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\Presentation.csproj.CopyComplete
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\SECoursework.exe
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\SECoursework.pdb
+D:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\SECoursework.exe.config
+D:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\SECoursework.exe
+D:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\SECoursework.pdb
+D:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\Business.dll
+D:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\Data.dll
+D:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.dll
+D:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\Business.pdb
+D:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\Data.pdb
+D:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.xml
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\Presentation.csprojAssemblyReference.cache
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\IncidentNature.g.cs
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\MainWindow.g.cs
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\TrendingList.g.cs
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\App.g.cs
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.cache
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.lref
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\IncidentNature.baml
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\MainWindow.baml
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\TrendingList.baml
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\SECoursework.g.resources
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\SECoursework.Properties.Resources.resources
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\Presentation.csproj.CopyComplete
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\SECoursework.exe
+D:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\SECoursework.pdb
+E:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\SECoursework.exe.config
+E:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\SECoursework.exe
+E:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\SECoursework.pdb
+E:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\Business.dll
+E:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\Data.dll
+E:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.dll
+E:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\Business.pdb
+E:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\Data.pdb
+E:\Software engineering coursework\new version\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.xml
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\Presentation.csprojAssemblyReference.cache
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\IncidentNature.g.cs
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\MainWindow.g.cs
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\TrendingList.g.cs
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\App.g.cs
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.cache
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.lref
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\IncidentNature.baml
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\MainWindow.baml
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\TrendingList.baml
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\SECoursework.g.resources
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\SECoursework.Properties.Resources.resources
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\Presentation.csproj.GenerateResource.cache
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\Presentation.csproj.CopyComplete
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\SECoursework.exe
+E:\Software engineering coursework\new version\SECoursework\SECoursework\obj\Debug\SECoursework.pdb
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\HelpWindow.g.cs
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\SECoursework\obj\Debug\HelpWindow.baml
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\bin\Debug\SECoursework.exe.config
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\bin\Debug\SECoursework.exe
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\bin\Debug\SECoursework.pdb
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\bin\Debug\Business.dll
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\bin\Debug\Data.dll
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.dll
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\bin\Debug\Business.pdb
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\bin\Debug\Data.pdb
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\bin\Debug\Newtonsoft.Json.xml
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\Presentation.csprojAssemblyReference.cache
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\HelpWindow.g.cs
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\IncidentNature.g.cs
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\MainWindow.g.cs
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\TrendingList.g.cs
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\App.g.cs
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.cache
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\SECoursework_MarkupCompile.lref
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\HelpWindow.baml
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\IncidentNature.baml
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\MainWindow.baml
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\TrendingList.baml
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\SECoursework.g.resources
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\SECoursework.Properties.Resources.resources
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\Presentation.csproj.CopyComplete
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\SECoursework.exe
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\SECoursework\obj\Debug\SECoursework.pdb
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\bin\Debug\SECoursework.exe.config
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\bin\Debug\SECoursework.exe
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\bin\Debug\SECoursework.pdb
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\bin\Debug\Business.dll
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\bin\Debug\Data.dll
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\bin\Debug\Newtonsoft.Json.dll
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\bin\Debug\Business.pdb
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\bin\Debug\Data.pdb
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\bin\Debug\Newtonsoft.Json.xml
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\Presentation.csprojAssemblyReference.cache
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\HelpWindow.g.cs
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\IncidentNature.g.cs
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\MainWindow.g.cs
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\TrendingList.g.cs
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\App.g.cs
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\SECoursework_MarkupCompile.cache
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\SECoursework_MarkupCompile.lref
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\HelpWindow.baml
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\IncidentNature.baml
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\MainWindow.baml
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\TrendingList.baml
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\SECoursework.g.resources
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\SECoursework.Properties.Resources.resources
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\Presentation.csproj.CopyComplete
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\SECoursework.exe
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\SECoursework\obj\Debug\SECoursework.pdb

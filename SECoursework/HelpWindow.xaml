@@ -1,0 +1,33 @@
+﻿<Window x:Class="SECoursework.HelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SECoursework"
+        mc:Ignorable="d"
+        Title="HelpWindow" Height="648.4" Width="600.5" Background="White">
+    <Grid>
+        <GroupBox Header="Standard Email" HorizontalAlignment="Left" Height="260" Margin="307,19,0,0" VerticalAlignment="Top" Width="235"/>
+        <Label Content="Header&#xA;" HorizontalAlignment="Left" Margin="314,41,0,0" VerticalAlignment="Top" Height="31"/>
+        <Label Content="Body" HorizontalAlignment="Left" Margin="325,72,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="367,45,0,0" TextWrapping="Wrap" Text="E123456789" VerticalAlignment="Top" Width="157" IsReadOnly="True" Background="{x:Null}" TextChanged="TextBox_TextChanged_2"/>
+        <TextBox HorizontalAlignment="Left" Height="193" Margin="367,73,0,0" TextWrapping="Wrap" Text="example@email.com Subject This is a body of the email. First word must be a sender email address, second word must be the subject of the email (20 characters max) and anything followed by that is the body of the email" VerticalAlignment="Top" Width="157" IsReadOnly="True" BorderBrush="#FFABADB3" Background="{x:Null}" TextChanged="TextBox_TextChanged_3"/>
+        <GroupBox Header="Sms" HorizontalAlignment="Left" Height="260" Margin="43,19,0,0" VerticalAlignment="Top" Width="235"/>
+        <Label Content="Header&#xA;" HorizontalAlignment="Left" Margin="50,41,0,0" VerticalAlignment="Top" Height="31"/>
+        <Label Content="Body" HorizontalAlignment="Left" Margin="61,72,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="103,45,0,0" TextWrapping="Wrap" Text="S123456789" VerticalAlignment="Top" Width="157" IsReadOnly="True" Background="{x:Null}" TextChanged="TextBox_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="193" Margin="103,73,0,0" TextWrapping="Wrap" Text="+123456789123 This is example of sms body. First word must be a phone number, and must begin with '+' and followed by 12 numeric characters" VerticalAlignment="Top" Width="157" IsReadOnly="True" BorderBrush="#FFABADB3" Background="{x:Null}" TextChanged="TextBox_TextChanged_1"/>
+        <GroupBox Header="SIR email" HorizontalAlignment="Left" Height="260" Margin="44,306,0,0" VerticalAlignment="Top" Width="234"/>
+        <Label Content="Header&#xA;" HorizontalAlignment="Left" Margin="50,328,0,0" VerticalAlignment="Top" Height="32"/>
+        <Label Content="Body" HorizontalAlignment="Left" Margin="62,360,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="104,332,0,0" TextWrapping="Wrap" Text="E123456789" VerticalAlignment="Top" Width="156" IsReadOnly="True" Background="{x:Null}" TextChanged="TextBox_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="194" Margin="104,360,0,0" TextWrapping="Wrap" Text="example@email.com SIR 12/12/12 11-111-11 This is an example of SIR email. First word must be sender email address, followed by 'SIR' key word followed by the date dd/mm/yy, next the sport centre code. By the end of the input session user will be allowed to pick nature of incident from a drop-down menu" VerticalAlignment="Top" Width="156" IsReadOnly="True" BorderBrush="#FFABADB3" Background="{x:Null}" TextChanged="TextBox_TextChanged_4"/>
+        <GroupBox Header="Tweet" HorizontalAlignment="Left" Height="260" Margin="307,306,0,0" VerticalAlignment="Top" Width="234"/>
+        <Label Content="Header&#xA;" HorizontalAlignment="Left" Margin="313,328,0,0" VerticalAlignment="Top" Height="32"/>
+        <Label Content="Body" HorizontalAlignment="Left" Margin="325,360,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="367,332,0,0" TextWrapping="Wrap" Text="T123456789" VerticalAlignment="Top" Width="156" IsReadOnly="True" Background="{x:Null}" TextChanged="TextBox_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="194" Margin="367,360,0,0" TextWrapping="Wrap" Text="@tweet_Id This is example of twitter body message. First word must be sender tweet id, followed by the body of the tweet" VerticalAlignment="Top" Width="156" IsReadOnly="True" BorderBrush="#FFABADB3" Background="{x:Null}" TextChanged="TextBox_TextChanged_5"/>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="466,571,0,0" VerticalAlignment="Top" Width="75" Click="btnClose_Click"/>
+
+    </Grid>
+</Window>

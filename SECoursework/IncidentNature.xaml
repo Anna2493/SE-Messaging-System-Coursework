@@ -1,0 +1,27 @@
+﻿<Window x:Class="SECoursework.IncidentNature"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SECoursework"
+        mc:Ignorable="d"
+        Title="IncidentNature" Height="205.497" Width="351.903">
+    <Grid>
+        <ComboBox x:Name="natureCombo" HorizontalAlignment="Left" Margin="70,41,0,0" VerticalAlignment="Top" Width="190" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem Content="Theft of Properties" />
+            <ComboBoxItem Content="Staff Attack" />
+            <ComboBoxItem Content="Device Damage" />
+            <ComboBoxItem Content="Raid" />
+            <ComboBoxItem Content="Customer Attack" />
+            <ComboBoxItem Content="Staff Abuse" />
+            <ComboBoxItem Content="Bomb Threat" />
+            <ComboBoxItem Content="Terrorism" />
+            <ComboBoxItem Content="Suspicious Incident" />
+            <ComboBoxItem Content="Sport Injury" />
+            <ComboBoxItem Content="Personal Info Leak" />
+        </ComboBox>
+        <Label Content="Please select the nature of the incident" HorizontalAlignment="Left" Margin="56,10,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnOk" Content="Ok" HorizontalAlignment="Left" Margin="185,84,0,0" VerticalAlignment="Top" Width="75" Click="btnOk_Click"/>
+
+    </Grid>
+</Window>

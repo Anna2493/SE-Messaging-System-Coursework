@@ -1,0 +1,80 @@
+E:\Stuff\SE_Coursework\SECoursework\Business\obj\Debug\Business.csprojAssemblyReference.cache
+E:\Stuff\SE_Coursework\SECoursework\Business\bin\Debug\Business.dll
+E:\Stuff\SE_Coursework\SECoursework\Business\bin\Debug\Business.pdb
+E:\Stuff\SE_Coursework\SECoursework\Business\obj\Debug\Business.dll
+E:\Stuff\SE_Coursework\SECoursework\Business\obj\Debug\Business.pdb
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\Business\bin\Debug\Business.dll
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\Business\bin\Debug\Business.pdb
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\Business\obj\Debug\Business.dll
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\Business\obj\Debug\Business.pdb
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\Business\bin\Debug\Newtonsoft.Json.dll
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\Business\bin\Debug\Newtonsoft.Json.xml
+D:\Software Engineering\Software Engineering\COURSEWORK\SECoursework\Business\obj\Debug\Business.csproj.CopyComplete
+D:\Software engineering coursework\SECoursework\Business\bin\Debug\Business.dll
+D:\Software engineering coursework\SECoursework\Business\bin\Debug\Business.pdb
+D:\Software engineering coursework\SECoursework\Business\bin\Debug\Newtonsoft.Json.dll
+D:\Software engineering coursework\SECoursework\Business\bin\Debug\Newtonsoft.Json.xml
+D:\Software engineering coursework\SECoursework\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\Software engineering coursework\SECoursework\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Software engineering coursework\SECoursework\Business\obj\Debug\Business.csproj.CopyComplete
+D:\Software engineering coursework\SECoursework\Business\obj\Debug\Business.dll
+D:\Software engineering coursework\SECoursework\Business\obj\Debug\Business.pdb
+E:\Software engineering coursework\SECoursework\Business\bin\Debug\Business.dll
+E:\Software engineering coursework\SECoursework\Business\bin\Debug\Business.pdb
+E:\Software engineering coursework\SECoursework\Business\bin\Debug\Newtonsoft.Json.dll
+E:\Software engineering coursework\SECoursework\Business\bin\Debug\Newtonsoft.Json.xml
+E:\Software engineering coursework\SECoursework\Business\obj\Debug\Business.csprojAssemblyReference.cache
+E:\Software engineering coursework\SECoursework\Business\obj\Debug\Business.csproj.CopyComplete
+E:\Software engineering coursework\SECoursework\Business\obj\Debug\Business.dll
+E:\Software engineering coursework\SECoursework\Business\obj\Debug\Business.pdb
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\bin\Debug\Business.dll
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\bin\Debug\Business.pdb
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\bin\Debug\Newtonsoft.Json.dll
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\bin\Debug\Newtonsoft.Json.xml
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\obj\Debug\Business.csproj.CopyComplete
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\obj\Debug\Business.dll
+D:\Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\obj\Debug\Business.pdb
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\bin\Debug\Business.dll
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\bin\Debug\Business.pdb
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\bin\Debug\Newtonsoft.Json.dll
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\bin\Debug\Newtonsoft.Json.xml
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\obj\Debug\Business.csproj.CopyComplete
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\obj\Debug\Business.dll
+D:\1Uni\Software Engineering\COURSEWORK\new version\SECoursework\Business\obj\Debug\Business.pdb
+D:\Software engineering coursework\new version\SECoursework\Business\bin\Debug\Business.dll
+D:\Software engineering coursework\new version\SECoursework\Business\bin\Debug\Business.pdb
+D:\Software engineering coursework\new version\SECoursework\Business\bin\Debug\Newtonsoft.Json.dll
+D:\Software engineering coursework\new version\SECoursework\Business\bin\Debug\Newtonsoft.Json.xml
+D:\Software engineering coursework\new version\SECoursework\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\Software engineering coursework\new version\SECoursework\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Software engineering coursework\new version\SECoursework\Business\obj\Debug\Business.csproj.CopyComplete
+D:\Software engineering coursework\new version\SECoursework\Business\obj\Debug\Business.dll
+D:\Software engineering coursework\new version\SECoursework\Business\obj\Debug\Business.pdb
+E:\Software engineering coursework\new version\SECoursework\Business\bin\Debug\Business.dll
+E:\Software engineering coursework\new version\SECoursework\Business\bin\Debug\Business.pdb
+E:\Software engineering coursework\new version\SECoursework\Business\bin\Debug\Newtonsoft.Json.dll
+E:\Software engineering coursework\new version\SECoursework\Business\bin\Debug\Newtonsoft.Json.xml
+E:\Software engineering coursework\new version\SECoursework\Business\obj\Debug\Business.csprojAssemblyReference.cache
+E:\Software engineering coursework\new version\SECoursework\Business\obj\Debug\Business.csproj.CopyComplete
+E:\Software engineering coursework\new version\SECoursework\Business\obj\Debug\Business.dll
+E:\Software engineering coursework\new version\SECoursework\Business\obj\Debug\Business.pdb
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\Business\bin\Debug\Business.dll
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\Business\bin\Debug\Business.pdb
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\Business\bin\Debug\Newtonsoft.Json.dll
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\Business\bin\Debug\Newtonsoft.Json.xml
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\Business\obj\Debug\Business.csproj.CopyComplete
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\Business\obj\Debug\Business.dll
+D:\1Uni\Software Engineering\COURSEWORK\To submit\SECoursework\Business\obj\Debug\Business.pdb
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\Business\bin\Debug\Business.dll
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\Business\bin\Debug\Business.pdb
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\Business\bin\Debug\Newtonsoft.Json.dll
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\Business\bin\Debug\Newtonsoft.Json.xml
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\Business\obj\Debug\Business.csproj.CopyComplete
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\Business\obj\Debug\Business.dll
+D:\1Uni\3rd year\Tri1\Software Engineering\COURSEWORK\To submit\Euston Leisure Message Filtering Service\Business\obj\Debug\Business.pdb

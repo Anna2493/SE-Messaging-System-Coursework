@@ -1,0 +1,47 @@
+﻿<Window x:Class="SECoursework.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SECoursework"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="826.627" Width="1043.098" Background="#FFE6E6E6">
+    <Grid>
+        <TextBox x:Name="txtHeader" HorizontalAlignment="Left" Height="23" Margin="144,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="txtHeader_TextChanged"/>
+        <TextBox x:Name="txtBody" HorizontalAlignment="Left" Height="179" Margin="142,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="txtBody_TextChanged"/>
+        <TextBox x:Name="disSmsSender" HorizontalAlignment="Left" Height="23" Margin="456,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="disSmsSender_TextChanged"/>
+        <TextBox x:Name="disSmsBody" HorizontalAlignment="Left" Height="179" Margin="456,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="disSmsBody_TextChanged"/>
+        <Button x:Name="btnSend" Content="Send" HorizontalAlignment="Left" Margin="257,287,0,0" VerticalAlignment="Top" Width="75" Click="btnSend_Click" Background="White"/>
+        <Label Content="SMS Message" HorizontalAlignment="Left" Margin="456,44,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Input Message" HorizontalAlignment="Left" Margin="144,40,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Sender" HorizontalAlignment="Left" Margin="401,79,0,0" VerticalAlignment="Top"/>
+        <Label Content="Body" HorizontalAlignment="Left" Margin="412,107,0,0" VerticalAlignment="Top"/>
+        <Label Content="Message header" HorizontalAlignment="Left" Margin="40,75,0,0" VerticalAlignment="Top"/>
+        <Label Content="Message text" HorizontalAlignment="Left" Margin="57,106,0,0" VerticalAlignment="Top"/>
+        <Label Content="Standard Email Message" HorizontalAlignment="Left" Margin="730,44,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Sender" HorizontalAlignment="Left" Margin="675,79,0,0" VerticalAlignment="Top"/>
+        <Label Content="Body" HorizontalAlignment="Left" Margin="686,138,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="disStandardEmailSender" HorizontalAlignment="Left" Height="23" Margin="730,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="disStandardEmailSender_TextChanged"/>
+        <TextBox x:Name="disStandardEmailBody" HorizontalAlignment="Left" Height="179" Margin="730,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="disStandardEmailBody_TextChanged"/>
+        <Label Content="SIR Email Message" HorizontalAlignment="Left" Margin="458,384,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Sender" HorizontalAlignment="Left" Margin="406,421,0,0" VerticalAlignment="Top"/>
+        <Label Content="Subject" HorizontalAlignment="Left" Margin="673,107,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="disSubject" HorizontalAlignment="Left" Height="23" Margin="730,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="disSubject_TextChanged"/>
+        <Label Content="Subject" HorizontalAlignment="Left" Margin="404,447,0,0" VerticalAlignment="Top"/>
+        <Label Content="Incident nature" HorizontalAlignment="Left" Margin="363,505,0,0" VerticalAlignment="Top"/>
+        <Label Content="Body" HorizontalAlignment="Left" Margin="413,531,0,0" VerticalAlignment="Top"/>
+        <Label Content="Sports centre code" HorizontalAlignment="Left" Margin="344,475,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="disCentreCode" HorizontalAlignment="Left" Height="23" Margin="458,478,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="disCentreCode_TextChanged"/>
+        <Label Content="Tweet Message" HorizontalAlignment="Left" Margin="730,383,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="Sender" HorizontalAlignment="Left" Margin="675,420,0,0" VerticalAlignment="Top"/>
+        <Label Content="Body" HorizontalAlignment="Left" Margin="686,451,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="disTweetSender" HorizontalAlignment="Left" Height="23" Margin="730,420,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="disTweetSender_TextChanged"/>
+        <TextBox x:Name="disTweetBody" HorizontalAlignment="Left" Height="179" Margin="730,449,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="disTweetBody_TextChanged"/>
+        <TextBox x:Name="disSirEmailSender" HorizontalAlignment="Left" Height="23" Margin="458,421,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="disSirEmailSender_TextChanged"/>
+        <TextBox x:Name="disSirEmailSubject" HorizontalAlignment="Left" Height="23" Margin="458,449,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="disSirEmailSubject_TextChanged"/>
+        <TextBox x:Name="disSirNature" HorizontalAlignment="Left" Height="23" Margin="458,506,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" TextChanged="disSirNature_TextChanged"/>
+        <TextBox x:Name="disSirBody" HorizontalAlignment="Left" Height="179" Margin="458,534,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="188" TextChanged="disSirBody_TextChanged"/>
+        <Button x:Name="btnHelp" Content="Help" HorizontalAlignment="Left" Margin="144,287,0,0" VerticalAlignment="Top" Width="75" Background="White" Click="btnHelp_Click"/>
+
+    </Grid>
+</Window>
